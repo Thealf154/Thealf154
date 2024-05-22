@@ -8,4 +8,4 @@
 
 ## Technologies that I actually use
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,vite,react,py,django,java,spring,maven,mongodb,vim,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,vite,react,py,django,java,spring,maven,mongodb,mysql,vim,vscode)](https://skillicons.dev)
