@@ -1,7 +1,6 @@
 ## Hi, I'm Alfredo
 
 *Software Engineer*
-*Fullstack developer (I like backend stuff more)*
 
 - I love to challenge myself.
 - I love to think that learning and practicing can overcome anything
