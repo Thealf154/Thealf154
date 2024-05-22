@@ -6,6 +6,6 @@
 - I love to think that learning and practicing can overcome anything
 - I'm learning Golang, Docker, and low level programming.
 
-## Technlogies that I actually use
+## Technologies that I actually use
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,vite,react,py,django,java,spring,maven,mongodb,vim,vscode)](https://skillicons.dev)
